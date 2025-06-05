@@ -4,6 +4,10 @@
 
 <p align="center">This is my github repo for my personal website.</p>
 
+# Indigo Jekyll Template README Information:
+
+---
+
 <p align="center">
     <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
 </p>

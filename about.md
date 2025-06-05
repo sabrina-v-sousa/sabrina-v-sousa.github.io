@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I'm Sabrina Sousa! I'm a recent *mechatronics engineering* graduate from **McMaster University**.</p>
+<p>Hi, I'm Sabrina Sousa! I'm a recent <em>mechatronics engineering</em> graduate from <strong>McMaster University</strong>.</p>
 
 <p>I've always had an infinite curiousity about science, math and technology, so engineering was always my calling. I live for a challenge and I'm always looking to learn something new!</p>
 
-<p>I'm looking for career opportunities in software development. I'm especially interested in *cybersecurity*, *computer networks* and *quantum computing*! Feel free to look at my resume for past work experience while you're here or check out my skills and projects below.</p>
+<p>I'm looking for career opportunities in software development. I'm especially interested in <em>cybersecurity</em>, <em>computer networks</em> and <em>quantum computing</em>! Feel free to look at my resume for past work experience while you're here or check out my skills and projects below.</p>
 
 <h2>Skills</h2>
 
