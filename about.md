@@ -8,7 +8,7 @@ layout: page
 
 <p>I've always had an infinite curiousity about science, math and technology, so engineering was always my calling. I live for a challenge and I'm always looking to learn something new!</p>
 
-<p>I'm looking for career opportunities in software development. I'm especially interested in <strong>cybersecurity</strong>, <strong>computer networks</strong> and <strong>quantum computing</strong>! Feel free to look at my resume for past work experience while you're here or check out my skills and projects below.</p>
+<p>I'm looking for career opportunities in software development. I'm especially interested in <strong>cybersecurity</strong>, <strong>computer networks</strong> and <strong>quantum computing!</strong> Feel free to look at my resume for past work experience while you're here or check out my skills and projects below.</p>
 
 <h2>Skills</h2>
 
