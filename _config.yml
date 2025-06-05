@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Sabrina Sousa
+bio: Recent Mechatronics Engineering Graduate from McMaster University
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -17,10 +17,10 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/Resume-Mar2025.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://Sabrina-V-Sousa.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+instagram: sabri_suns
+linkedin: sousas8
+github: Sabrina-V-Sousa
+email: sabrinavsousa14@gmail.com
 
 authors:
   johndoe:
@@ -65,7 +65,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

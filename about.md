@@ -4,42 +4,49 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I'm Sabrina Sousa! I'm a recent *mechatronics engineering* graduate from **McMaster University**.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I've always had an infinite curiousity about science, math and technology, so engineering was always my calling. I live for a challenge and I'm always looking to learn something new!</p>
+
+<p>I'm looking for career opportunities in software development. I'm especially interested in *cybersecurity*, *computer networks* and *quantum computing*! Feel free to look at my resume for past work experience while you're here or check out my skills and projects below.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>C, C++</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Java</li>
+	<li>JavaScript</li>
+	<li>SQL, ABAP</li>
+	<li>XML</li>
+	<li>HTML5, SAPUI5 (HTML5 framework)</li>
+	<li>CSS</li>
+	<li>AWS</li>
+	<li>Git</li>
+	<li>Linux</li>
+	<li>Assembly</li>
+	<li>Verilog</li>
+	<li>Matlab</li>
+	<li>R</li>
+	<li>CAD (Autodesk Inventor, Solidworks)</li>
+	<li>Simulink</li>
+	<li>Multisim</li>
+	<li>Raspberry Pi, Arduino</li>
+	<li>3D Printing</li>
+	<li>Oscilloscope</li>
+	<li>Soldering</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/Corbin-Jarrett/capstone">Eye Can</a></li>
+</ul>
+
+<h2>Languages</h2>
+
+<ul class="skill-list">
+	<li>English</li>
+	<li>French</li>
+	<li>Learning Portuguese and Japanese!</li>
 </ul>

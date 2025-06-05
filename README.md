@@ -1,4 +1,10 @@
 <p align="center">
+    <h2 align="center">Personal Website Project - <a href="https://sabrina-v-sousa.github.io/">Visit Here</a></h2>
+</p>
+
+<p align="center">This is my github repo for my personal website.</p>
+
+<p align="center">
     <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
 </p>
 
