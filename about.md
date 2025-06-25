@@ -6,9 +6,9 @@ layout: page
 
 <p>Hi, I'm Sabrina Sousa! I'm a recent <strong>mechatronics engineering</strong> graduate from <em>McMaster University</em>.</p>
 
-<p>I've always had an infinite curiousity about science, math and technology, so engineering was always my calling. I live for a challenge and I'm always looking to learn something new!</p>
+<p>Driven by a lifelong curiosity for science, mathematics, and technology, I’ve always been drawn to the challenges and creativity that engineering offers. I’m a fast learner who thrives on solving problems and learning new things!</p>
 
-<p>I'm looking for career opportunities in software development. I'm especially interested in <strong>cybersecurity</strong>, <strong>computer networks</strong> and <strong>quantum computing!</strong> Feel free to look at my resume for past work experience while you're here or check out my skills and projects below.</p>
+<p>I'm currently seeking career opportunities in software development, with a particular interest in <strong>cybersecurity</strong>, <strong>computer networks</strong>, and <strong>quantum computing!</strong> Feel free to explore my resume for details on my past work experience or browse my skills and projects below.</p>
 
 <h2>Skills</h2>
 
@@ -40,7 +40,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/Corbin-Jarrett/capstone">Eye Can</a></li>
+	<li><a href="https://sabrinasousa.me/eyecan/">Eye Can</a></li>
 </ul>
 
 <h2>Languages</h2>
