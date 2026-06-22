@@ -1,6 +1,6 @@
 # main text of home
 title: Sabrina Sousa
-bio: Recent Mechatronics Engineering Graduate from McMaster University
+bio: Master of Cybersecurity and Threat Intelligence (MCTI) Student at the University of Guelph
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: /assets/Resume-SabrinaSousa.pdf
 
-url: https://Sabrina-V-Sousa.github.io
+url: https://sabrina-v-sousa.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -38,22 +38,22 @@ disqus:
 #twitter: mytwitter
 instagram: sabri_suns
 linkedin: sousas8
-github: Sabrina-V-Sousa
+github: sabrina-v-sousa
 email: sabrinavsousa14@gmail.com
 
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+# authors:
+#  johndoe:
+#    name: John Doe
+#    bio: A Man who travels the world eating noodles
+#    external-image: false
+#    picture: assets/images/profile.jpg
+#    twitter: johndoe
+#  jamesfoster:
+#    name: James Foster
+#    bio: A Man who develops software with coffee
+#    external-image: false
+#    picture: assets/images/james.jpg
+#    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
