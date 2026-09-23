@@ -40,7 +40,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://sabrinasousa.me/eyecan/">Eye Can</a></li>
+	<li><a href="https://sabrinavsousa.me/eyecan/">Eye Can</a></li>
 </ul>
 
 <h2>Languages</h2>
